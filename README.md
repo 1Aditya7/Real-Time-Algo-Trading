@@ -1,7 +1,5 @@
 # Real-Time Algorithmic Trading System
 
-![Project Logo](https://TBD)
-
 ## Overview
 
 This repository contains code and resources for building a real-time algorithmic trading system using Apache Flink, Apache Kafka (with Redpanda), Python, SQL, and Docker. The project covers data ingestion, processing, and executing trades based on custom algorithms in real-time.
